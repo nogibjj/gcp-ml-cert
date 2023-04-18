@@ -1,3 +1,6 @@
+#serving
+serving
+
 #ignore big media files
 media
 #ignore transcript changes from whisper tests:wq
